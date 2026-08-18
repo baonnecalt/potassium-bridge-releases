@@ -15,10 +15,10 @@
 
 <p align="center">
   <a href="https://github.com/baonnecalt/potassium-bridge-releases/releases/latest">
-    <img src="https://img.shields.io/github/downloads/baonnecalt/potassium-bridge-releases/total?style=for-the-badge&label=downloads&color=2ea043">
+    <img src="https://img.shields.io/github/downloads/baonnecalt/potassium-bridge-releases/total?style=for-the-badge&label=downloads&color=2ea043&v=2">
   </a>
   <a href="https://github.com/baonnecalt/potassium-bridge-releases/releases/latest">
-    <img src="https://img.shields.io/github/v/release/baonnecalt/potassium-bridge-releases?style=for-the-badge&label=version&color=007ec6">
+    <img src="https://img.shields.io/github/v/release/baonnecalt/potassium-bridge-releases?style=for-the-badge&label=version&color=007ec6&v=2">
   </a>
   <img src="https://img.shields.io/badge/license-MIT-4c1?style=for-the-badge">
   <img src="https://img.shields.io/badge/platform-windows-0078d4?style=for-the-badge">
@@ -34,7 +34,7 @@ the editor, so you can stop alt-tabbing to press F9.
    Or from a terminal:
 
    ```
-   code --install-extension potassium-bridge-1.21.0.vsix
+   code --install-extension <indirdigin-dosya>.vsix
    ```
 3. Run `Potassium Bridge: Install/update the roblox bridge script` from the command
    palette, restart VS Code, then start Potassium and inject.
