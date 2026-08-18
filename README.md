@@ -34,7 +34,7 @@ the editor, so you can stop alt-tabbing to press F9.
    Or from a terminal:
 
    ```
-   code --install-extension <indirdigin-dosya>.vsix
+   code --install-extension potassium-bridge-1.7.0.vsix
    ```
 3. Run `Potassium Bridge: Install/update the roblox bridge script` from the command
    palette, restart VS Code, then start Potassium and inject.
